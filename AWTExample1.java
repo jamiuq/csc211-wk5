@@ -13,7 +13,9 @@ public class AWTExample1 extends Frame{
 	        // adding button into frame    
 	      add(b);
 	      add(b1);
-	  
+
+	      addEventListener(
+		
 	      // frame size 300 width and 300 height    
 	      setSize(400,400);  
 	  
