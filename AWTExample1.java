@@ -14,7 +14,10 @@ public class AWTExample1 extends Frame{
 	      add(b);
 	      add(b1);
 
-	      addEventListener(
+	      addActionListener(new actionListener(
+	      {
+			
+	      })
 		
 	      // frame size 300 width and 300 height    
 	      setSize(400,400);  
